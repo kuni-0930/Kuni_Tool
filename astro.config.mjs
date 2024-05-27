@@ -3,6 +3,9 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://kuni-0930.github.io/",
+  outDir: "./docs",
+  base: "/Kuni_Tool",
   integrations: [
     starlight({
       title: "Kuni_Tool",
@@ -15,6 +18,7 @@ export default defineConfig({
           items: [
             // Each item here is one entry in the navigation menu.
             { label: "Example Guide", link: "/guides/example/" },
+            { label: "Test", link: "/guides/test/" },
           ],
         },
         {
@@ -24,7 +28,4 @@ export default defineConfig({
       ],
     }),
   ],
-  site: "https://kuni-0930.github.io/",
-  outDir: "./docs",
-  base: "/Kuni_Tool",
 });
