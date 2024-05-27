@@ -24,7 +24,7 @@ export default defineConfig({
       ],
     }),
   ],
-  // site: "https://kuni-0930.github.io/",
-  // outDir: "./docs",
-  // base: "/Kuni_Tool",
+  site: "https://kuni-0930.github.io/",
+  outDir: "./docs",
+  base: "/Kuni_Tool",
 });
