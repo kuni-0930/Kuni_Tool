@@ -5,6 +5,8 @@ description: Astroで構築されたポートフォリオサイトの説明
 
 ## 構成
 
+![Sample Image Title](../../../assets/images/DSC00076.png)
+
 下記の構成で自分について説明していく。
 
 - 簡単な経歴
