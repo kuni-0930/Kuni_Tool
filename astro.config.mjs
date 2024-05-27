@@ -7,7 +7,7 @@ export default defineConfig({
     starlight({
       title: "Kuni_Tool",
       social: {
-        github: "https://github.com/withastro/starlight",
+        github: "https://github.com/kuni-0930/Kuni_Tool",
       },
       sidebar: [
         {
@@ -24,7 +24,7 @@ export default defineConfig({
       ],
     }),
   ],
-  site: "https://kuni-0930.github.io/",
-  outDir: "./docs",
-  base: "/Kuni_Tool",
+  // site: "https://kuni-0930.github.io/",
+  // outDir: "./docs",
+  // base: "/Kuni_Tool",
 });
