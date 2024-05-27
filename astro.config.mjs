@@ -4,7 +4,7 @@ import starlight from "@astrojs/starlight";
 // https://astro.build/config
 export default defineConfig({
   site: "https://kuni-0930.github.io/",
-  outDir: "./docs",
+  //outDir: "./docs",
   base: "/Kuni_Tool",
   integrations: [
     starlight({
