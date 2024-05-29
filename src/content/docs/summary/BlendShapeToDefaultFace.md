@@ -3,7 +3,7 @@ title: BlendshapeToDefaultFace
 description: BlendshapeToDefaultFaceの概要
 ---
 
-:::message alert
+:::caution
 このツールはクセがあります。注意事項をよく読んでください。
 :::
 
