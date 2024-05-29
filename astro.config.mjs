@@ -15,15 +15,15 @@ export default defineConfig({
       sidebar: [
         {
           label: "概要",
-          autogenerate: { derectory: "summary" },
+          autogenerate: { directory: "summary" },
         },
         {
           label: "使い方",
-          autogenerate: { derectory: "HowTo" },
+          autogenerate: { directory: "HowTo" },
         },
         {
           label: "利用規約",
-          autogenerate: { derectory: "license" },
+          autogenerate: { directory: "license" },
         },
         {
           label: "Reference",
