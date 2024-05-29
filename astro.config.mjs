@@ -14,12 +14,16 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Guides",
-          items: [
-            // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", link: "/guides/example/" },
-            { label: "Test", link: "/guides/test/" },
-          ],
+          label: "概要",
+          autogenerate: { derectory: "summary" },
+        },
+        {
+          label: "使い方",
+          autogenerate: { derectory: "HowTo" },
+        },
+        {
+          label: "利用規約",
+          autogenerate: { derectory: "license" },
         },
         {
           label: "Reference",
