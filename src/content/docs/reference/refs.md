@@ -1,5 +1,5 @@
 ---
-title: KuniTool Reference
+title: Reference
 description: 本ツール作成に関連したもの
 ---
 

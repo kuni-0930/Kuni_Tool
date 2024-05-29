@@ -1,5 +1,5 @@
 ---
-title: KuniTool BlendshapeToDefaultFace
+title: BlendshapeToDefaultFace
 description: BlendshapeToDefaultFaceの概要
 ---
 

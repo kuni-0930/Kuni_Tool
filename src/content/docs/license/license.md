@@ -1,5 +1,5 @@
 ---
-title: KuniTool License
+title: License
 description: 利用規約
 ---
 

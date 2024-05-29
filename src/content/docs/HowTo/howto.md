@@ -1,5 +1,5 @@
 ---
-title: KuniTool HowToUse
+title: HowToUse
 description: Kuni_Toolの使い方
 ---
 
