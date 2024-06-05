@@ -26,14 +26,9 @@ Start ボタンを押すと処理が実行されます。
 ![unity vroid dif](../../../assets/images/unity-vroid-blink-dif.png)
 
 これを防ぐ為に「Joy」をデフォルトにした場合は「まばたき」の BlendShape を編集して「Joy」分をマイナスします。
-`code`
 
-```言語名
-
-```
-
-'''
+```code枠
 デフォルト顔　＋　まばたき　＝　正規まばたき
 デフォルト顔　＋　 Joy 　＋　まばたき　＝　破綻まばたき
 デフォルト顔（＋ Joy）　＋　まばたき（ー Joy）　＝　正規まばたき
-'''
+```
