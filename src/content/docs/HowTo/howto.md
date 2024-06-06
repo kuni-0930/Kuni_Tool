@@ -5,7 +5,7 @@ description: Kuni_Toolの使い方
 
 ## ツールの導入
 
-- unitypackage を Unity にドラッグ＆ドロップしてください。
+- unitypackage を Unity にドラッグ＆ドロップしてください。<br>
   (何も起こらない場合は Unity の Project ウィンドウの中の Assets フォルダを狙ってドラッグ＆ドロップすると良いです)
 
 ![unity import](../../../assets/images/unity-import.png)
@@ -26,7 +26,7 @@ description: Kuni_Toolの使い方
 
 # オブジェクト編集系ツールの使用方法
 
-- Hierarchy ウィンドウの中にあるオブジェクトをツールにドラッグ＆ドロップしてください。
+- Hierarchy ウィンドウの中にあるオブジェクトをツールにドラッグ＆ドロップしてください。<br>
   (例:SkinnedMeshRenderer が指定されているツールでは Face や Body 等をセットしてください)
 
 ![unity obj set](../../../assets/images/unity-object-set.png)

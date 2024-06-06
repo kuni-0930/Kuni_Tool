@@ -14,12 +14,12 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "概要",
-          autogenerate: { directory: "summary" },
-        },
-        {
           label: "使い方",
           autogenerate: { directory: "HowTo" },
+        },
+        {
+          label: "概要",
+          autogenerate: { directory: "summary" },
         },
         {
           label: "利用規約",
