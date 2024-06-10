@@ -1,4 +1,9 @@
 :root {
   --sl-content-width: 80rem;
-  --sl-text-base: 5rem;
+  --sl-text-xl: 1.8rem; /* 20px */
+  --sl-text-2xl: 2rem; /* 24px */
+  --sl-text-3xl: 2.2rem; /* 29px */
+  --sl-text-4xl: 2.4rem; /* 35px */
+  --sl-text-5xl: 2.625rem; /* 42px */
+  --sl-text-6xl: 4rem; /* 64px */
 }
