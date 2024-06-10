@@ -1,6 +1,6 @@
 :root {
   --sl-content-width: 80rem;
-  --sl-text-xs: 0.8125rem; /* 13px */
+  --sl-text-xs: 1.25rem; /* 13px */
   --sl-text-sm: 0.875rem; /* 14px */
   --sl-text-base: 1rem; /* 16px */
   --sl-text-lg: 1.125rem; /* 18px */
