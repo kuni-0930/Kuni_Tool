@@ -1,7 +1,7 @@
 :root {
   --sl-content-width: 80rem;
-  --sl-text-xs: 1.25rem; /* 13px */
-  --sl-text-sm: 1.25rem; /* 14px */
+  --sl-text-xs: 1.125rem; /* 13px */
+  --sl-text-sm: 1.125rem; /* 14px */
   --sl-text-base: 1.125rem; /* 16px */
   --sl-text-lg: 1.125rem; /* 18px */
   --sl-text-xl: 1.25rem; /* 20px */
