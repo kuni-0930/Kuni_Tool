@@ -1,13 +1,18 @@
 :root {
   --sl-content-width: 80rem;
-  --sl-text-xs: 1.125rem; /* 13px */
-  --sl-text-sm: 1.125rem; /* 14px */
-  --sl-text-base: 1.125rem; /* 16px */
-  --sl-text-lg: 1.125rem; /* 18px */
-  --sl-text-xl: 1.25rem; /* 20px */
-  --sl-text-2xl: 1.5rem; /* 24px */
-  --sl-text-3xl: 1.8125rem; /* 29px */
-  --sl-text-4xl: 2.1875rem; /* 35px */
-  --sl-text-5xl: 2.625rem; /* 42px */
-  --sl-text-6xl: 4rem; /* 64px */
+  /*
+  --sl-text-xs: 1.125rem;
+  --sl-text-sm: 1.125rem;
+  --sl-text-base: 1.125rem;
+  --sl-text-lg: 1.125rem;
+  --sl-text-xl: 1.25rem;
+  --sl-text-2xl: 1.5rem;
+  --sl-text-3xl: 1.8125rem;
+  --sl-text-4xl: 2.1875rem;
+  --sl-text-5xl: 2.625rem;
+  --sl-text-6xl: 4rem;
+  */
+}
+.em {
+  font-size: 2em;
 }
