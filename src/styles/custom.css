@@ -1,6 +1,5 @@
 :root {
   --sl-content-width: 80rem;
-  /*
   --sl-text-xs: 1.125rem;
   --sl-text-sm: 1.125rem;
   --sl-text-base: 1.125rem;
@@ -11,8 +10,4 @@
   --sl-text-4xl: 2.1875rem;
   --sl-text-5xl: 2.625rem;
   --sl-text-6xl: 4rem;
-  */
-}
-.em {
-  font-size: 4em;
 }
