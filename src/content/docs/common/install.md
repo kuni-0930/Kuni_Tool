@@ -16,7 +16,7 @@ description: Kuni_Toolの使い方
 
 ![unity header](../../../assets/images/unity-header.png)
 
-# テクスチャ単体編集系ツールの使用方法
+## テクスチャ単体編集系ツールの使用方法
 
 - Project ウィンドウの中にある画像をツールにドラッグ＆ドロップしてください。
 
@@ -24,7 +24,7 @@ description: Kuni_Toolの使い方
 
 画像をセットした後はツール個別の使い方に従ってください。
 
-# オブジェクト編集系ツールの使用方法
+## オブジェクト編集系ツールの使用方法
 
 - Hierarchy ウィンドウの中にあるオブジェクトをツールにドラッグ＆ドロップしてください。<br>
   (例:SkinnedMeshRenderer が指定されているツールでは Face や Body 等をセットしてください)
