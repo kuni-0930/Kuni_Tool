@@ -14,12 +14,8 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "使い方",
-          autogenerate: { directory: "HowTo" },
-        },
-        {
-          label: "概要",
-          autogenerate: { directory: "summary" },
+          label: "ツール一覧",
+          autogenerate: { directory: "tools" },
         },
         {
           label: "利用規約",

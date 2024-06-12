@@ -7,6 +7,10 @@ description: BlendshapeToDefaultFaceの概要
 このツールはご購入・ご利用前に注意事項をよく読んでください。
 :::
 
+## 始めに
+
+- [導入方法](/Kuni_Tool/howto/install/)
+
 ## 使い方
 
 Hierarchy からデフォルトにしたい BlendShape があるオブジェクトをセットしてください。<br>
