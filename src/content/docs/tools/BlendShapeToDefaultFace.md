@@ -9,7 +9,7 @@ description: BlendshapeToDefaultFaceの概要
 
 ## 始めに
 
-- [導入方法](/Kuni_Tool/howto/install/)
+導入については[こちら](/Kuni_Tool/howto/install/)をご覧ください。
 
 ## 使い方
 
