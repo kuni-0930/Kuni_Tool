@@ -22,7 +22,7 @@ export default defineConfig({
           autogenerate: { directory: "license" },
         },
         {
-          label: "Reference",
+          label: "参照",
           autogenerate: { directory: "reference" },
         },
       ],
