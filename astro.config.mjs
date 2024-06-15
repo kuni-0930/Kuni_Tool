@@ -27,7 +27,7 @@ export default defineConfig({
         },
       ],
       customCss: ["./src/styles/custom.css", "./src/styles/global.css"],
-      favicon: "./public/favicon.ico",
+      favicon: "/images/favicon.ico",
     }),
   ],
 });
