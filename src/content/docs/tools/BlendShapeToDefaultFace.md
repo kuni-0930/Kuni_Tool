@@ -1,5 +1,5 @@
 ---
-title: BlendshapeToDefaultFace
+title: BlendShapeToDefaultFace
 description: BlendshapeToDefaultFaceの概要
 ---
 
