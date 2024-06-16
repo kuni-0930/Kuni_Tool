@@ -14,8 +14,8 @@ description: BlendshapeToDefaultFaceの概要
 ## 使い方
 
 Hierarchy からデフォルトにしたい BlendShape があるオブジェクトをセットしてください。<br>
+Start ボタンを押すと処理が実行されます。<br>
 Inspector 上での BlendShape の値をデフォルトにします。<br>
-Start ボタンを押すと処理が実行されます。
 
 ![unity vroid](../../../assets/images/unity-vroid.png)
 
