@@ -19,4 +19,4 @@ Project ウインドウにあるテクスチャをツールにセットしてく
 
 ![unity pwt](../../../assets/images/unity-pwt.png)
 
-他、使い方は基本的に PainterWithSkinnedMesh と同じなので[PainterWithSkinnedMesh](/Kuni_Tool/tools/PainterWithSkinnedMesh/)を参照してください。<br>
+他、使い方は基本的に PainterWithSkinnedMesh と同じなので[PainterWithSkinnedMesh](/Kuni_Tool/tools/painterwithskinnedmesh/)を参照してください。<br>
