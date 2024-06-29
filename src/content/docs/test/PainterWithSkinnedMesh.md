@@ -31,31 +31,31 @@ Undo（ctrl+z）は使えないので必ずレイヤーを追加して塗って�
 
 ![unity pws pen type](../../../assets/images/unity-pws-pentype.png)
 
-- Pen
+    - Pen
 
 標準的な塗りつぶしペンです。<br>
 
-- Brush
+    - Brush
 
 ブラシペンです。<br>
 ペンの中心から離れるほど透明になります。<br>
 
-- Eraser
+    - Eraser
 
 消しゴムです。<br>
 ベタ消しします。<br>
 
-- Pick
+    - Pick
 
 色を抽出します。<br>
 全レイヤーの合成結果の色から取得します。<br>
 
-- AlphaPen
+    - AlphaPen
 
 色設定のアルファ値で元画像のアルファ値から引き算します。<br>
 計算方法の違いなので基本は Pen と同じような塗り方と思ってください。<br>
 
-- AlphaBrush
+    - AlphaBrush
 
 AlphaPen のブラシ版です。<br>
 
