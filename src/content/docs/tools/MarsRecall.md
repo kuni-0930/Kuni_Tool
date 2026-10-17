@@ -1,5 +1,5 @@
 ---
-title: MarsRecal
+title: MarsRecall
 description: MarsRecall(火星のあれ)の概要
 ---
 
@@ -29,7 +29,7 @@ ModularAvatarが必須なのでインポートしておいてください。<br>
 
 4.Unity上部のKuni_Toolから「MarsRecall」を選択してください。<br>
 
-5.出てきたウィンドウにて、「Avatar Object」の項目に**Hierarchyから**アバターをドラッグ＆ドロップでセットしてください。<br>
+5.出てきたウィンドウにて、「Avatar Object」の項目に **Hierarchyから** アバターをドラッグ＆ドロップでセットしてください。<br>
 
 6.「作成」ボタンで変形用prefabを生成し、対象アバターにセットします。<br>
 
@@ -37,9 +37,9 @@ ModularAvatarが必須なのでインポートしておいてください。<br>
 
 7.Kuni_toolから「MarsRecall_PrefabInstaller」を選択してください。<br>
 
-8.「Avatar Object」に設置したいアバターを**Hierarchyから**セットしてください。<br>
+8.「Avatar Object」に設置したいアバターを **Hierarchyから** セットしてください。<br>
 
-9.「MarsRecall Prefab」に(6)で作ったprefabを**projectウィンドウから**ドラッグ＆ドロップしてください。<br>
+9.「MarsRecall Prefab」に(6)で作ったprefabを **projectウィンドウから** ドラッグ＆ドロップしてください。<br>
 
 prefabはprojectウィンドウのAssets/KuniTool/Outputにあるはずです。<br>
 
@@ -54,7 +54,7 @@ prefabはprojectウィンドウのAssets/KuniTool/Outputにあるはずです。
 ・Grab(掴み動作)の仕様<br>
 初期状態から顔付近でコントローラーでgrab動作をするとprefabの顔が開き始めます。<br>
 顔が開いた後、2回目のgrabで顔を掴むと開いた顔が閉じます。<br>
-2回目のgrabは握っていると**右手に**追従します。<br>
+2回目のgrabは握っていると **右手に** 追従します。<br>
 2回目のgrabを離すと顔が爆発します。<br>
 元に戻すにはサークルメニューのアバターリセットをしてください。<br>
 
